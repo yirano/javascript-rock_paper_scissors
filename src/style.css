@@ -1,0 +1,48 @@
+.container {
+  max-width: 500px;
+  height: 800px;
+  background-color: rgba(247, 248, 246, 0.774);
+  font-family: 'Open Sans', sans-serif;
+  border-radius: 20px;
+  margin: 0 auto;
+}
+
+.title {
+  position: relative;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.computer, .player {
+  display: inline-block;
+  padding: 40px;
+}
+
+#computer-screen, #player-screen {
+  width: 140px;
+  height: 140px;
+  border: 1px solid rgb(207, 207, 207);
+  background-color: rgb(230, 230, 230);
+  border-radius: 10px;
+}
+
+button {
+  width: 60px;
+  height: 60px;
+  margin: 20px;
+  border: none;
+}
+
+h2 {
+  text-align: left;
+}
+
+#announce h2 {
+  font-size: 42px;
+  text-align: center;
+  margin-top: 50px;
+}
