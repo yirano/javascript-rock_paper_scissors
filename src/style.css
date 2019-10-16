@@ -1,7 +1,7 @@
 .container {
   max-width: 500px;
   height: 800px;
-  background-color: rgba(247, 248, 246, 0.774);
+  background-color: rgba(247, 248, 246, 0.603);
   font-family: 'Open Sans', sans-serif;
   border-radius: 20px;
   margin: 0 auto;
@@ -25,9 +25,14 @@
 #computer-screen, #player-screen {
   width: 140px;
   height: 140px;
-  border: 1px solid rgb(207, 207, 207);
-  background-color: rgb(230, 230, 230);
+  border: 1px solid rgba(207, 207, 207, 0.507);
+  background-color: rgba(230, 230, 230, 0.294);
   border-radius: 10px;
+}
+
+#computer-screen span, #player-screen span {
+  position: relative;
+  top: 30px;
 }
 
 button {
@@ -35,6 +40,7 @@ button {
   height: 60px;
   margin: 20px;
   border: none;
+  outline: none;
 }
 
 h2 {
