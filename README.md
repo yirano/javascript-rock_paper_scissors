@@ -7,7 +7,7 @@ This mini project was created to put some DOM Manipulation into practice. Using 
 - Html/CSS
 - Javascript
 
-[Live Page](https://yirano.github.io/javascript-rock_paper_scissors/)
+[Live Page](https://yirano.github.io/javascript-rock_paper_scissors/src/)
 
 ## Contact
 
