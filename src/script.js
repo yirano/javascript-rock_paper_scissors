@@ -48,6 +48,7 @@ for (const button of buttons) {
             playerPt += 0;
             compPt += 0;
           }
+
         }
         playerPts.textContent = playerPt;
         compPts.textContent = compPt;
