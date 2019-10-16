@@ -62,9 +62,7 @@ for (const button of buttons) {
         compScreen.classList = computerSelection;
       }
 
-
       play();
-
     },
     false)
 
